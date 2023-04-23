@@ -1,0 +1,51 @@
+
+public class Lista {
+    Lista  ( Lista  l1 , Lista  l2 ) {
+        Lista  resultado =
+
+    nueva  Lista ();for(
+
+    Entero e:l1.tabla)
+    {
+
+    }for(
+    Entero e:l2.tabla)
+    {}
+
+    lista pública () {
+        tabla = nuevo  
+     }
+
+    void equals(Integer listaInteger) {
+
+    }
+
+    }
+
+    void  equals ( Lista  listainLista ) {
+        int  lista = tabla 
+        lista = lista . copyOf Lista  = Lista ( l1 , l2 );
+        sistema _ arraycopy ( Lista l1 , 0 , Lista l2 . length );
+     }
+
+    Obtener lista l1,
+
+    l2 ( índice int  ) {
+
+    int  lista ( Integer  lista ) {
+         índice  int = lista ;
+        equals(lista); ( equals(lista); == - lista ) {
+           if lista es
+
+    igual a ( listaInteger) { 
+              lista = lista ;
+           }
+        
+       
+     }
+
+    public  void  mostrar () {
+        sistema _ fuera _ println ( "Lista:" + Arreglos . aString ( tabla ));
+     }
+
+}}}

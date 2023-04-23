@@ -1,0 +1,22 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+        equals(Object obj) : boolean
+        lista  l1 ; lista nueva  ();
+        Lista  l2 ; lista nueva  ();
+        l1 = new Lista();
+        l2 = new Lista();
+        Lista  = Lista ( l1 , l2 );
+        System.out.println ( Lista );
+        System.out.println ( l1 );
+        System.out.println ( l2 );
+        System.out.println ( l1.size() );
+        System.out.println ( l2.size() );
+        System.out.println ( l1.size() == l2.size() );
+       final Void listaVoid
+    
+
+
+
+       
+    }
+}
